@@ -7,5 +7,5 @@ En el repositorio encontraras 3 códigos para preparar la información y replica
 Este proyecto es realizado en el marco del curso de Metodología de los Estudios Políticos de la Maestría en Análisis Político de la Universidad Nacional de Tres de Febrero y tiene propósitos pedagógicos. Se utilizan datos provisorios del escrutinio y de electores por mesa, que pueden haber sufrido modificaciones. Para tener una idea más precisa del proceso electoral, revise el escrutinio definitivo en https://www.padron.gob.ar/publica/ 
 
 Cómo citar: 
-*Miño, J.A. 2022. Análisis forense de las elecciones argentinas de 2021 . Repositorio de GitHub, https://github.com/andresminio/forenseelectoral2021*
+*Miño, J.A. 2022. Análisis forense de las elecciones argentinas de 2021 . Repositorio de GitHub, URL: https://github.com/andresminio/forenseelectoral2021*
 
