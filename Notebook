@@ -1,0 +1,19 @@
+
+En este proyecto se utiliza el análisis forense electoral (election forensics) para identificar posibles irregularidades en las elecciones 
+de Diputados Nacionales de Argentina en 2021.
+
+Este análisis se basa en el reconocimiento en grandes volúmenes de información de patrones característicos del voto fraudulento y erróneo 
+que resultan del desvío con respecto a lo esperado según ciertas reglas estadísticas.
+
+Los datos utilizados provienen de las aproximadamente 100 mil mesas de votación de todo el país cargadas en el escrutinio provisorio, 
+realizado por el Ministerio del Interior el mismo día de la elección, en un contexto de gran expectativa pública y con limitada capacidad de fiscalización partidaria. 
+Aunque el escrutinio definitivo es el único instrumento legalmente válido para designar a las autoridades, el conteo provisorio ofrece a la ciudadanía una primera imagen
+sobre los resultados electorales en el país, por lo que su manipulación estratégica o sesgo, incluso no intencional, podría contribuir a la confusión en la opinión pública, 
+la incertidumbre política y la deslegitimación de la elección. Es por eso que su monitoreo y control resultan fundamentales para garantizar la integridad electoral.
+
+El análisis se concentra en indicadores que permiten identificar inconsistencias a nivel de mesas, como la carga (o no) de las mesas en el escrutinio provisorio, 
+el nivel de participación electoral, la asociación entre participación y voto por agrupación política y las diferencias entre el voto de las agrupaciones en la mesa 
+y el promedio del circuito electoral. Además de realizar un diagnóstico general de la elección, la identificación de problemas en las mesas resulta relevante para gestionar los problemas
+desde el punto de vista de las autoridades electorales y de las agrupaciones políticas.
+
+Para ver una explicación más detallada del proyecto y sus resultados, ver https://rpubs.com/andresminio/forenseelectoral21
